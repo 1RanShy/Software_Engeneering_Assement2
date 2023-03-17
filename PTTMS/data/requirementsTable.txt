@@ -1,0 +1,5 @@
+RequirementID,createDate,classDirectorID,courseID,stuats,administratorID,pttID,trainingID
+r0001,10-02-2023,sc001,cm001,1,sa002,sp001,t0001
+r0002,11-02-2023,sc002,cc001,-1,sa002,sp003,t0001
+r0003,12-02-2023,sc001,cp001,0
+r0004,15-03-2023,sc001,cm002,1,sa001,sp004,t0001

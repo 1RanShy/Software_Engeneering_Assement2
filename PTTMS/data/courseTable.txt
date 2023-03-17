@@ -1,0 +1,5 @@
+courseID,Name
+cm001,statistics
+cp001,physics
+cc001,chemistry
+cm002,math

@@ -1,0 +1,4 @@
+trainingID,Name,Time,pttID,3
+t0001,t1,10911,sp001,sp002,sp004
+t0002,t2,21214
+t0003,t3,31416

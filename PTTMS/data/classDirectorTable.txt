@@ -1,0 +1,4 @@
+classDirectorId,Name,Email,RequirementID
+sc001,Miles Fitch,Bob@gmail.com,r0001,r0003,r0004,
+sc002,Donald Nick,Eli@gmail.com,r0002
+sc003,Alice Amy,Lan@gmail.com
